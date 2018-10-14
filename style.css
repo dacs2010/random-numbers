@@ -1,0 +1,7 @@
+.print-out {
+  width: 200px;
+  height: 100PX;
+  background: lightgrey;
+  text-align: center;
+  transform: translate(0px, 175px);
+}
